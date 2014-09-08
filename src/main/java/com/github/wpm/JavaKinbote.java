@@ -1,4 +1,4 @@
-package wpm;
+package com.github.wpm;
 
 import com.github.wpm.kinbote.Annotator;
 import com.github.wpm.kinbote.AnnotatorChain;
